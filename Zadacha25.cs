@@ -32,12 +32,3 @@ double Exp(double a)
         return res;
     }
 }
-//Второй вариант решения: более простой, но без использования метода:
-
-/* Console.Write("Введите число А: ");
-double A = double.Parse(Console.ReadLine()!);
-Console.Write("Введите число B: ");
-double B = double.Parse(Console.ReadLine()!);
-
-double res = Math.Pow(A, B);
-Console.WriteLine("Число А в степени В = " + res); */
